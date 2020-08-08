@@ -1,0 +1,18 @@
+1) Sacas la raíz cuadrada del número, perfecta (o truncada, de no ser prefecta).
+
+2) Cuentas la cantidad de divisores que son menores o iguales que la raíz. Multiplica esa cantidad por dos.
+
+OJO: De la raíz ser prefecta, le restas 1.
+
+
+Ej 1: 20
+
+Raíz cuadrada: 4 (truncada)
+Cantidad de factores de 20 menores o iguales a 4: 3 (1, 2, 4)
+Cantidad total de factores = 3(2) = 6
+
+Ej 2: 36
+
+Raíz cuadrada: 6 (perfecta)
+Cantidad de factores de 36 menores o iguales a 6: 5 (1, 2, 3, 4, 6)
+Cantidad total de factores = 5(2) - 1 = 10 - 1 = 9.
